@@ -8,8 +8,3 @@
 	url = https://github.com/joey711/biomformat
 	shallow = true
 	registered = true
-[submodule "phyloseq"]
-	path = phyloseq
-	url = https://github.com/joey711/phyloseq
-	shallow = true
-	registered = true
