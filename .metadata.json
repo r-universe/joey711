@@ -1,8 +1,8 @@
 [
   {
-    "package": "phyloseq"
+    "package": "biomformat"
   },
   {
-    "package": "biomformat"
+    "package": "phyloseq"
   }
 ]
