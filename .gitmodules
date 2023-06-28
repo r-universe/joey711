@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "biomformat"]
 	path = biomformat
 	url = https://github.com/joey711/biomformat
-	shallow = true
-	registered = true
 [submodule "phyloseq"]
 	path = phyloseq
 	url = https://github.com/joey711/phyloseq
-	shallow = true
-	registered = true
